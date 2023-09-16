@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DalalTalhaoui I'm a fulltime Medical Student, currently doing my masters
+- 👋 Hi, I’m @DalalTalhaoui I'm a fulltime Master Student
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning how to code in Javascript (I'm a noob, I know)
-- 📫 You can reach me on linkedIn
+- 🌱 I’m currently learning how to code in Python
 - Open to new online friends!
 - The reason I wanted to learn to code, is because Mr Robot, the first few episodes were really badass, I still haven't completed the first season tho (don't spoil me)
 
